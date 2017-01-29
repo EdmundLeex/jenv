@@ -1,0 +1,19 @@
+{
+  "name": "jenv",
+  "version": "0.1.0",
+  "description": "Manager local environment variable in a better way",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "env",
+    "jenv"
+  ],
+  "author": "Edmund Li",
+  "license": "ISC"
+}
