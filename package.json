@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "bin": {
-    "jenv init": "bin/init.js"
+    "jenv": "bin/init.js"
   },
   "repository": {
     "type": "git",
