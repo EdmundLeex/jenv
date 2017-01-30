@@ -1,0 +1,11 @@
+{
+  // Put production environment variable here
+  "production": {
+
+  },
+
+  // Put development environment variable here
+  "development": {
+
+  }
+}

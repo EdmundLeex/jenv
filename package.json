@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin": {
+    "init": "bin/init.js"
+  },
   "repository": {
     "type": "git",
     "url": "#"
@@ -20,6 +23,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "app-root-path": "^2.0.1"
+    "app-root-path": "^2.0.1",
+    "shelljs": "^0.7.6"
   }
 }
